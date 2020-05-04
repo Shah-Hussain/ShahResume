@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Poppins&display=swap');
+
+
+*{margin:0;padding:0;box-sizing: border-box;}
+a{color:white;text-decoration: none;}
+.main-content{width:65%;margin:50px auto;display: flex;justify-content: space-between; }
+
+.left{width:35%; height: auto;background-color: 
+#333333;padding-bottom: 20px;}
+.right{width:69%;height: auto;padding-bottom: 20px;}
+.profile{height:280px;width:100%;padding-left:60px; padding-top: 50px;background-image: linear-gradient(to bottom right,
+#6ad2fe 50%,#333333 50%)}
+.profile img{border-radius:50%;width:200px;height: 200px;border:5px solid white;}
+.profile img:hover{transform:scale(1.1,1.1);transition: ease 0.2s all;}
+.heading{font-family:Robot;font-weight:bolder;font-size:50px;letter-spacing:2px;color:whitesmoke;text-align: center;}
+.profile-name h3{text-align: center;font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif; color:
+#6ad2fe; font-size:30px;border-top : 2px solid whitesmoke;width:70%;border-bottom : 2px solid whitesmoke;width:70%;}
+.info h3{text-align: center;font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif; color:
+#6ad2fe; font-size:20px;margin-top:8px;width:70%;border-bottom : 2px solid whitesmoke;width:70%;}
+/*font-family: 'Merriweather', serif;*/
+/*font-family: 'Poppins', sans-serif;*/
+.shadow{box-shadow: -2px -2px 5px 2px  black,2px 2px 5px 2px  black; }
+.text-shadow{text-shadow: 2px 2px 2px black;}
+.para{color:white;text-align:left;margin-left: 50px;font-weight: bolder; font-family: 'Poppins', sans-serif;}
+.para1{color:white;text-align:left;margin-left: 20px;font-weight: bolder; font-family: 'Poppins', sans-serif;}
+.btn{padding:5px; background-color:#6ad2fe;border-radius:15px;margin-left:100px;margin-top:40px;}
+.icon{float:left;color:#6ad2fe;margin-left: 20px;}
+.fa {color:#6ad2fe;}
+.text{margin-left:30px ;margin-bottom: 10px;width: 100%;}
+/*===skills====*/
+.cont {
+  width: 80%;
+  background-color: #ddd;
+  margin-bottom: 5px;border-radius:10px;
+}
+
+.skills {
+  text-align: right;
+  color: white;border-radius:10px;
+}
+
+.skills-sec h1{border-bottom : 2px solid whitesmoke;width:70%;text-align: center;font-family: 'Merriweather', serif;
+font-family: 'Poppins', sans-serif; color:
+#6ad2fe; font-size:20px;margin-left: 10px;}
+.skills-sec h1,.skills-sec p{color:#6ad2fe;}
+.html {width: 98%; background-color: #e1522c;text-align:center;}
+.css {width: 90%; background-color: #2196F3;}
+.js {width: 65%; background-color: gold;}
+.php {width: 90%; background-color: yellowgreen;}
+.skills-sec{margin-left: 50px;}
+/*Profil-Details*/
+.profile-details {width:80%;color:black;margin-top:20px;}
+.right .fa{color:#333333;}
+.left p{}
+.right .profile-details .paragraph{color:black;margin-top:px;font-size:15px;text-align:;margin-left: 50px;font-family: 'Poppins', sans-serif;}
+.right{padding:20px;}
+.right .icon{margin-left:50px;}
+.right .icon h2{border-bottom:2px solid  #6ad2fe;}
+.pp{border-bottom:2px solid  #6ad2fe;margin-left:80px; width: 100%;padding-bottom: 10px;letter-spacing:padding-top:10px;box-shadow: 2px 2px 2px black;}
+.profile-details .date{margin-left: 85px;color:black;}
+.profile-details .date ul {color:black;font-family: 'Poppins', sans-serif;margin-bottom: 20px;border-bottom:2px solid #333333;padding-bottom:5px;}
+
+ ul li{list-style-type: none;font-weight: bold}
+ 
+.hobbies ul li{font-family: 'Poppins', sans-serif;margin-bottom: 10px;font-size:20px;display:;margin-left:55px;font-weight: bolder;}
+
+
+
+
+
+
